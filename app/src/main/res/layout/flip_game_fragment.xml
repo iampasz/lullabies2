@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constrain_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:padding="5dp">
+
+
+    <FrameLayout
+        android:id="@+id/lockFrame"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        ads:layout_constraintBottom_toBottomOf="@+id/rv_cards"
+        ads:layout_constraintEnd_toEndOf="@+id/rv_cards"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="@+id/rv_cards">
+
+    </FrameLayout>
+
+
+    <ImageView
+        android:id="@+id/home_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/bt_home"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintStart_toStartOf="parent" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_cards"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        ads:layout_constraintBottom_toTopOf="@+id/home_button"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="parent">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

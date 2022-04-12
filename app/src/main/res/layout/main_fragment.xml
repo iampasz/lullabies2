@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constrain_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewpager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="parent"></androidx.viewpager2.widget.ViewPager2>
+
+    <FrameLayout
+        android:id="@+id/turn_on_button"
+        android:layout_width="0dp"
+        android:layout_height="75dp"
+        android:layout_weight="1"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintEnd_toStartOf="@+id/melodies_button"
+        ads:layout_constraintStart_toEndOf="@+id/game_button">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/empty_button"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_bbutton"
+            tools:ignore="ImageContrastCheck,RedundantDescriptionCheck" />
+
+        <TextView
+            android:id="@+id/turn_on_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/minnie"
+            android:shadowColor="@color/text_shadow"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="2"
+            android:text="@string/turn_on"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/leaf_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:contentDescription="@string/leaf"
+        android:src="@drawable/bt_leaf"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ImageContrastCheck,RedundantDescriptionCheck" />
+
+    <ImageView
+        android:id="@+id/game_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:contentDescription="@string/game"
+        android:src="@drawable/bt_game"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ImageContrastCheck,RedundantDescriptionCheck" />
+
+    <ImageView
+        android:id="@+id/melodies_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:contentDescription="@string/melody"
+        android:src="@drawable/bt_melody"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="ImageContrastCheck,RedundantDescriptionCheck" />
+
+    <ImageView
+        android:id="@+id/settings_button"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:contentDescription="@string|/settings"
+        android:src="@drawable/bt_setting"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ImageContrastCheck,RedundantDescriptionCheck" />
+
+    <TextView
+        android:id="@+id/timer_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/minnie"
+        android:shadowColor="@color/text_shadow"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="2"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        ads:layout_constraintEnd_toEndOf="parent"
+        ads:layout_constraintStart_toStartOf="parent"
+        ads:layout_constraintTop_toTopOf="@+id/viewpager" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

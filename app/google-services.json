@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002625524422",
+    "project_id": "lullabies-bcfb8",
+    "storage_bucket": "lullabies-bcfb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002625524422:android:921c090cc12a79b7f5edc7",
+        "android_client_info": {
+          "package_name": "com.appsforkids.pasz.lullabies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002625524422-q8ltjbd299trftc9om3rbovqg0v65btq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDd6cQdHdWVlmkCwMqmGbP2a-dXkUvG1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002625524422-q8ltjbd299trftc9om3rbovqg0v65btq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

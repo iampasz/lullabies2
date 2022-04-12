@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2E000000"
+    android:clickable="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/shape_menu"
+        android:clickable="false"
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <FrameLayout
+            android:id="@+id/st_background"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:background="@drawable/color4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/set_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="image"
+                app:srcCompat="@drawable/sh_fox" />
+
+            <ImageView
+                android:id="@+id/set_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="image"
+                app:srcCompat="@drawable/an_fox" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/timer_ind"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_gravity="right"
+                    android:alpha="1"
+                    android:contentDescription="image"
+                    app:srcCompat="@drawable/timer" />
+
+                <TextView
+                    android:id="@+id/timer_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center|center_horizontal"
+                    android:fontFamily="@font/minnie"
+                    android:foregroundGravity="center"
+                    android:gravity="center|center_vertical"
+                    android:shadowColor="@color/text_shadow"
+                    android:shadowDx="2"
+                    android:shadowDy="2"
+                    android:shadowRadius="2"
+                    android:text="@string/minutes"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/save_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:foregroundGravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/flow">
+
+            <ImageView
+                android:id="@+id/close_button"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:contentDescription="image"
+                app:srcCompat="@drawable/ic_bbutton" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/minnie"
+                android:shadowColor="@color/text_shadow"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="2"
+                android:text="@string/save"
+                android:textColor="#FFFFFF"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/bt_adds"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:contentDescription="image"
+            android:src="@drawable/bt_bear"
+            android:visibility="gone"
+            app:layout_constraintStart_toStartOf="@+id/flow"
+            app:layout_constraintTop_toBottomOf="@+id/st_background" />
+
+        <ImageView
+            android:id="@+id/bt_timer"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="300dp"
+            android:contentDescription="image"
+            app:layout_constraintEnd_toStartOf="@+id/bt_lamp"
+            app:layout_constraintTop_toTopOf="@+id/st_background"
+            app:srcCompat="@drawable/bt_timer" />
+
+        <ImageView
+            android:id="@+id/bt_play"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:contentDescription="image"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/flow"
+            app:layout_constraintTop_toBottomOf="@+id/bt_lamp"
+            app:srcCompat="@drawable/bt_play" />
+
+        <ImageView
+            android:id="@+id/bt_glasses"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:contentDescription="image"
+            android:visibility="gone"
+            app:layout_constraintEnd_toStartOf="@+id/bt_timer"
+            app:layout_constraintTop_toBottomOf="@+id/st_background"
+            app:srcCompat="@drawable/bt_home" />
+
+        <ImageView
+            android:id="@+id/bt_colors"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:contentDescription="image"
+            android:src="@drawable/bt_colors"
+            app:layout_constraintBottom_toTopOf="@+id/save_button"
+            app:layout_constraintEnd_toStartOf="@+id/bt_images" />
+
+        <ImageView
+            android:id="@+id/bt_lamp"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="259dp"
+            android:contentDescription="image"
+            android:src="@drawable/bt_lamp"
+            android:visibility="visible"
+            app:layout_constraintStart_toStartOf="@+id/flow"
+            app:layout_constraintTop_toBottomOf="@+id/st_background" />
+
+        <ImageView
+            android:id="@+id/bt_images"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginEnd="2dp"
+            android:layout_weight="1"
+            android:contentDescription="image"
+            android:src="@drawable/bt_images"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@+id/save_button"
+            app:layout_constraintEnd_toStartOf="@+id/bt_play" />
+
+        <ImageView
+            android:id="@+id/bt_star"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:contentDescription="image"
+            android:src="@drawable/bt_star"
+            app:layout_constraintBottom_toBottomOf="@+id/bt_colors"
+            app:layout_constraintStart_toStartOf="@+id/flow" />
+
+        <androidx.constraintlayout.helper.widget.Flow
+            android:id="@+id/flow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            app:constraint_referenced_ids="
+        bt_adds,
+        bt_glasses,
+        bt_timer,
+        bt_lamp,
+        bt_star,
+        bt_colors,
+        bt_images,
+        bt_play"
+            app:flow_horizontalGap="2dp"
+            app:flow_horizontalStyle="packed"
+            app:flow_verticalGap="2dp"
+            app:flow_verticalStyle="packed"
+
+            app:flow_wrapMode="aligned"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/st_background" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

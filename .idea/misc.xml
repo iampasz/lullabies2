@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable-v24/bt_cube.xml" value="0.19947916666666668" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable-v24/bt_hats.xml" value="0.33611111111111114" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable-v24/bt_lamp.xml" value="0.33425925925925926" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable-v24/color_cyan_corners.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bg_gradient.xml" value="0.25" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bg_gradient_ua.xml" value="0.34933605720122574" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/border_shadow.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_bbutton.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_bear.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_bottom.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_close.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_colors.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_cube.xml" value="0.19947916666666668" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_game.xml" value="0.33425925925925926" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_glasses.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_hats.xml" value="0.33611111111111114" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_home.xml" value="0.2078125" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_images.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_lamp.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_leaf.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_lock.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_melody.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_menu.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_minuse.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_ok.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_pause.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_play.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_plus.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_present.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_setting.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_star.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_stop.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_timer.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/bt_unlock.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/card_back_side.xml" value="0.35625" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/card_front_side.xml" value="0.21041666666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/circle.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color1.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color10.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color11.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color13.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color14.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color15.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color16.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color17.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color18.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color19.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color2.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color20.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color21.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color22.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color23.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color24.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color25.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color26.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color27.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color28.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color29.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color3.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color30.xml" value="0.3212962962962963" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color4.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color5.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color6.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color7.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color8.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color9.xml" value="0.31666666666666665" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_black.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_blue.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_cyan.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_cyan_corners.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_front_side.xml" value="0.19947916666666668" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_green.xml" value="0.25" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_orange.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_purple.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_red.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_white.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/color_yellow.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/corner_blue.xml" value="0.24583333333333332" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/corners.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/custom_thumb.xml" value="0.3101851851851852" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/gray_corners.xml" value="0.34933605720122574" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/light.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/red_scrubber_control.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/red_scrubber_progress.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/seekbar_progress.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/seekbar_style.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/shape_menu.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/shine.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/splash.xml" value="0.2" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/drawable/sss.xml" value="0.34882533197139937" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/font/my_fonts.xml" value="0.3314814814814815" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/ani_image_view.xml" value="0.17916666666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/animated_image_view.xml" value="0.18177083333333333" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/card_item.xml" value="0.20364583333333333" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/color_item.xml" value="0.2971014492753623" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/colors_fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/flip_game_fragment.xml" value="0.22" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/game_fragment.xml" value="0.3052536231884058" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/hats_fragment.xml" value="0.3359375" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/image_fragment.xml" value="0.18177083333333333" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/image_item.xml" value="0.1875" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/item.xml" value="0.2803442028985507" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/item_music.xml" value="0.1875" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/main.xml" value="0.33" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/main_fragment.xml" value="0.2" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/message_fragment.xml" value="0.2391304347826087" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/music_list_fragment.xml" value="0.20104166666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/my_list.xml" value="0.20104166666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/my_music_list.xml" value="0.24094202898550723" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/my_settings.xml" value="0.2971014492753623" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/nightlight_fragment.xml" value="0.2" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/player.xml" value="0.1875" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/rate_app.xml" value="0.25" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/shop_item.xml" value="0.3359375" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/shop_item_fragment.xml" value="0.1" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/splash.xml" value="0.18659420289855072" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/test.xml" value="0.20104166666666667" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/tet_content.xml" value="0.1875" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/layout/unlock_fragment.xml" value="0.25" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25729166666666664" />
+        <entry key="..\:/ANDROID PROJECT2/lullabies2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25729166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
